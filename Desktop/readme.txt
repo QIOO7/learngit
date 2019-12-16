@@ -1,1 +1,1 @@
-Greating a new branch is quick.
+Greating a new branch is quick AND simple.
